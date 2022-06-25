@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
   },
   image:{
     height:200,
-
   }
 
 });
