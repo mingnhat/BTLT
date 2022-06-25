@@ -1,5 +1,4 @@
 import { Text, View, SafeAreaView, TouchableOpacity } from "react-native";
-
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Projects, Home,Transaction, Account } from "../screens";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
@@ -51,7 +50,6 @@ export default function BotTab() {
                 size={size}
               />
             ),
-            
           }}
         />
       ))}
