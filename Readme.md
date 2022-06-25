@@ -1,5 +1,7 @@
-Nhớ chạy lại npm install
+npm install
+npm i -g expo-cli
+expo start --tunnel
 
-expo start
 
-![alt text](https://wac-cdn.atlassian.com/dam/jcr:1a585ccd-a542-4256-a00f-20a72c914731/Android-login.png)
+
+EXPO
