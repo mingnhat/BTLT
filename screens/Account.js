@@ -34,7 +34,6 @@ const styles = StyleSheet.create({
   image:{
     height:200,
   }
-
 });
 
 export default Home;
